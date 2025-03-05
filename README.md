@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating Dynamic, Engaging and Mind Blowing Websites.
 - 🌱 I’m currently learning Web Development using Angular Framework.
 - 💞️ I’m looking to collaborate on building mind blowing websites.
-- 📫 How to reach me (You can reach me here omolaramary735@gmnail.com)
+- 📫 How to reach me (You can reach me here omolaramary735@gmail.com)
 
 
 <!---
